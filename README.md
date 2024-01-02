@@ -5,8 +5,13 @@
 
 
 
+### Hi there 👋 My name is Dareen, Mau Marah? Emang Punya Tatto?
 
-- 👋 Hi, I’m @mikeel-ye
+<p align="center">
+  <img src="https://telegra.ph//file/925f34a34bc7c829c62c2.jpg">
+
+
+
 - 👀 Bukan Devs Cuma Kang Fork doang
 - LU JELEK JANGAN REWEL BANGSAT GA GUNA SOALNYA GOBLOK
 
