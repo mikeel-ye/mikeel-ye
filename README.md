@@ -8,9 +8,7 @@
 
 - 👋 Hi, I’m @mikeel-ye
 - 👀 Bukan Devs Cuma Kang Fork doang
-- 🌱 Yang Penting Rooorr
-- 💞️ Support seller keren
-- 📫 Asal Senang Itu Ku Lakukan
+- LU JELEK JANGAN REWEL BANGSAT GA GUNA SOALNYA GOBLOK
 
  
 
