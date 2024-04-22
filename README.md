@@ -1,4 +1,4 @@
-# [ ˹ᴅᴀʀᴇ̷ᴇ̷ɴ ᴅɢᴀɴᴋ˼ ]
+# [ ˹ᴅᴀʀᴇ̷ᴇ̷ɴ˼ ]
 
 ## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Darenrorr) 
 <br>
@@ -6,9 +6,6 @@
 
 
 ### Hi there 👋 My name is Dareen, Mau Marah? Emang Punya Tatto?
-
-<p align="center">
-  <img src="https://telegra.ph//file/925f34a34bc7c829c62c2.jpg">
 
 
 
