@@ -7,16 +7,12 @@
 
 ### Hi there 👋 My name is Dareen, Mau Marah? Emang Punya Tatto?
 
-<p align="center">
-  <img src="https://telegra.ph//file/be58a5cccf23b0af3382e.jpg">
-
-### OSHI GUA NI CAKEP KAN
 
 ### LU JELEK JANGAN REWEL BANGSAT GA GUNA JUGA SOALNYA GOBLOK
 
 ### Stats:
-<p align="center"><a href="https://github.com/mikeel-ye"><img src="https://github-readme-stats.vercel.app/api?username=ionmusic&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/mikeel-ye"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionmusic&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/mikeel-ye"><img src="https://github-readme-stats.vercel.app/api?username=mikeel-ye&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/mikeel-ye"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeel-ye&theme=radical&layout=compact"></a></p> 
 
 
 
