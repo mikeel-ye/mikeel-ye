@@ -8,7 +8,7 @@
 ### Hi there 👋 My name is Dareen, Mau Marah? Emang Punya Tatto?
 
 
-### LU JELEK JANGAN REWEL BANGSAT GA GUNA JUGA SOALNYA GOBLOK
+### BUKAN DEVS CUMAN KANG COPAST
 
 ### Stats:
 <p align="center"><a href="https://github.com/mikeel-ye"><img src="https://github-readme-stats.vercel.app/api?username=mikeel-ye&show_icons=true&theme=radical"></a></p>
