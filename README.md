@@ -8,7 +8,7 @@
 ### Hi there 👋 My name is Dareen, Mau Marah? Emang Punya Tatto?
 
 
-### BUKAN DEVS CUMAN KANG COPAST
+### DAVS DEVS DAVS DEVS BAPAKLU NOH MAU JADI DEVS
 
 ### Stats:
 <p align="center"><a href="https://github.com/mikeel-ye"><img src="https://github-readme-stats.vercel.app/api?username=mikeel-ye&show_icons=true&theme=radical"></a></p>
