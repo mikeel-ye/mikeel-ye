@@ -30,6 +30,8 @@
   <a href="https://github.com/mikeel-ye"><img src="https://img.shields.io/badge/Github-FFF?style=for-the-badge&logo=Github&logoColor=000000&link=https://github.com/Rlxfly" /></a>
 </p>
 
+![Profile Dilihat](https://komarev.com/ghpvc/?username=mikeel-ye&color=blue&style=plastic&label=Profile+Dilihat)
+
 <!---
 mikeel-ye/mikeel-ye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
