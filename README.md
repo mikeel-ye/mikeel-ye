@@ -19,6 +19,8 @@
 ![「DAREEN」](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
+![Profile Dilihat](https://komarev.com/ghpvc/?username=mikeel-ye&color=blue&style=plastic&label=Profile+Dilihat)
+
 
 <details>
     <summary>「🧧」 <b>Follow Me On</b></summary><br/>
@@ -30,7 +32,6 @@
   <a href="https://github.com/mikeel-ye"><img src="https://img.shields.io/badge/Github-FFF?style=for-the-badge&logo=Github&logoColor=000000&link=https://github.com/Rlxfly" /></a>
 </p>
 
-![Profile Dilihat](https://komarev.com/ghpvc/?username=mikeel-ye&color=blue&style=plastic&label=Profile+Dilihat)
 
 <!---
 mikeel-ye/mikeel-ye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
