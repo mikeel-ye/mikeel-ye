@@ -25,7 +25,7 @@
 <details>
     <summary>「🧧」 <b>Follow Me On</b></summary><br/>
 <p align="center">
-  <a href="https://www.instagram.com/xckall.86"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/Dareenez_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <p align="center">
